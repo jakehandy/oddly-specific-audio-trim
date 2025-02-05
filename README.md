@@ -1,4 +1,4 @@
-# The Oddly Specific Audio Trim Python Script
+# The dddly specific audio trim script
 
 This script trims all audio files in a directory to 2 minutes and 32 seconds.
 
